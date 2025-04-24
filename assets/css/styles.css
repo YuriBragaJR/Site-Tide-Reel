@@ -1,0 +1,177 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration:none;
+    color: #e4e4e4;
+}
+
+/*Variaveis*/
+:root {
+    --color-light: #ffffff;
+    --color-blues: #6959c5;
+    --color-01:  #6fc0be;
+    --color-02: rgb(15, 145, 130);
+    --color-03: rgb(0 131 115);
+    --color-04: rgb(0 119 104);
+    --color-05: rgb(24 145 129);
+    --color-06:rgb(10, 51, 46);
+    --transition: .5s;
+}
+
+html {
+    font-size: 62.5%;
+    
+}
+
+body {
+    font-size: 1.6rem;
+    margin: 0% 15%;
+}
+
+header {
+    background-color: var(--color-04);
+    
+}
+
+h1 {
+  font-size: 3.6rem;
+  margin: 15px 0px;
+}
+
+.header {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between; 
+  margin: 0px 30px;
+}
+
+.header-links {
+  display: flex;
+  gap: 20px;
+}
+
+.logo {
+  padding: 10px;
+  margin: 0px 30px;
+}
+
+.logo-name {
+  padding: 0px;
+  margin: 0px;
+  font-size: 3rem;
+}
+
+.nav {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  background-color: var(--color-03);
+}
+
+
+.links {
+  display: flex;
+  padding: 10px;
+  gap: 20px;
+  margin: 0px 30px;
+}
+
+
+.hero {
+  display: flex;
+  padding: 10px;
+  justify-content: space-around;
+  background-color: var(--color-03);
+}
+
+.img-svg {
+  height: 500px;
+  width: 500px;
+  transform: translateY(-50px);
+}
+
+.left-content {
+  margin: 10px;
+  padding: 10px;
+  width: 50%;
+  
+}
+
+.btn-container {
+  display: flex;
+  gap: 20px;
+  margin: 30px 0px 0px 0px;
+  align-items: center;
+  padding: 20px;
+  
+}
+
+.btn-começar {
+  background-color: var(--color-05);
+  border-radius: 30px;
+  padding: 5px 15px;
+  border: 1px solid var(--color-01);
+  
+}
+
+.btn-assistir {
+  background-color: transparent;
+  padding: 5px 15px;
+  border-radius: 50px;
+  transform: translateY(-3px);
+}
+
+.play {
+  margin: 0px 5px 0px 0px;
+  color: var(--color-01);
+  font-size: 3rem;
+  transform: translateY(5px);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  transform: translateY(-100px);
+  flex-wrap: wrap;
+}
+
+.box {
+  margin: 10px;
+  padding: 10px;
+  height: 200px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-02);
+  border-radius: 5px;
+
+}
+
+.icon {
+  font-size: 30px;
+  margin: 5px;
+}
+
+.bottom {
+  text-align: center;
+  color: var(--color-06);
+}
+
+.underline {
+  border: 1px solid;
+  width: 50px;
+  justify-self: center;
+  color: var(--color-05);
+}
+.icon-top {
+  font-size: 2rem;
+}
