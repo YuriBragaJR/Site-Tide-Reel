@@ -1,4 +1,4 @@
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500" style="width: 215px;" xml:space="preserve" data-imageid="fishing-7" imageName="Fishing" class="illustrations_image">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500" style="width: 188px;" xml:space="preserve" data-imageid="fishing-7" imageName="Fishing" class="illustrations_image">
 <style type="text/css">
 	.st0_fishing-7{fill:#2FB7B3;}
 	.st1_fishing-7{opacity:0.68;}
@@ -73,15 +73,15 @@
 	<circle class="st4_fishing-7" cx="394.8" cy="250.8" r="0.7"/>
 </g>
 <g id="Fishermen_and_Boat_fishing-7">
-	<path class="st7_fishing-7 targetColor" d="M167.2,299c0,0-9.9-14,14.3-37.3s128.5-80.9,152.9-84.3s40.6,2.2,45.6,14.9" style="fill: rgb(104, 225, 253);"/>
-	<path class="st7_fishing-7 targetColor" d="M167.2,299c14.4,10.3,32.2,14.8,49.8,12.4c29.8-4,59.3-11.7,86.5-29s69.8-49.8,69.8-49.8&#10;&#9;&#9;c5.2-9.7,8-20.5,8.1-31.5c0.2-18.5-16.6-23.6-32.1-21.1" style="fill: rgb(104, 225, 253);"/>
+	<path class="st7_fishing-7 targetColor" d="M167.2,299c0,0-9.9-14,14.3-37.3s128.5-80.9,152.9-84.3s40.6,2.2,45.6,14.9" style="fill: rgb(145, 76, 66);"/>
+	<path class="st7_fishing-7 targetColor" d="M167.2,299c14.4,10.3,32.2,14.8,49.8,12.4c29.8-4,59.3-11.7,86.5-29s69.8-49.8,69.8-49.8&#10;&#9;&#9;c5.2-9.7,8-20.5,8.1-31.5c0.2-18.5-16.6-23.6-32.1-21.1" style="fill: rgb(145, 76, 66);"/>
 	<path class="st8_fishing-7" d="M194.2,275.9c0,0,90.8-54.4,120.4-60.9s25.9,20.6,25.9,20.6s-78.2,50.2-113,55.7S194.2,275.9,194.2,275.9z"/>
 	<polyline class="st9_fishing-7" points="207.2,250.1 207.2,253.2 258,282.4 275.6,273.9 276.6,271.6 &#9;"/>
 	<polygon class="st0_fishing-7" points="207.2,250.1 259.1,279.8 276.6,271.6 222.8,240.1 &#9;"/>
 	<polyline class="st9_fishing-7" points="268.8,216.2 268.8,219.2 319.5,248.4 337.1,240 338.1,237.7 &#9;"/>
 	<polygon class="st0_fishing-7" points="268.8,216.2 320.6,245.8 338.1,237.7 284.3,206.1 &#9;"/>
-	<path class="st7_fishing-7 targetColor" d="M309.8,191.5l49.1,28.1l20.8-19.8c0,0,3-12.1-10.9-19.4S322.3,180.4,309.8,191.5z" style="fill: rgb(104, 225, 253);"/>
-	<polygon class="st7_fishing-7 targetColor" points="309.8,191.5 309.8,217.5 340.5,235.7 358.8,219.5 &#9;" style="fill: rgb(104, 225, 253);"/>
+	<path class="st7_fishing-7 targetColor" d="M309.8,191.5l49.1,28.1l20.8-19.8c0,0,3-12.1-10.9-19.4S322.3,180.4,309.8,191.5z" style="fill: rgb(145, 76, 66);"/>
+	<polygon class="st7_fishing-7 targetColor" points="309.8,191.5 309.8,217.5 340.5,235.7 358.8,219.5 &#9;" style="fill: rgb(145, 76, 66);"/>
 	<path class="st10_fishing-7" d="M309.8,191.5l49.1,28.1l20.8-19.8c0,0,3-12.1-10.9-19.4S322.3,180.4,309.8,191.5z"/>
 	<polygon class="st11_fishing-7" points="309.8,191.5 309.8,217.5 340.5,235.7 358.8,219.5 &#9;"/>
 	<polyline class="st12_fishing-7" points="229.1,226 223.3,257.1 232.7,255.3 &#9;"/>
@@ -97,7 +97,7 @@
 	<path class="st14_fishing-7" d="M231,207.3l-2.6,2.7c7.2,2.6,15,2.9,22.3,0.8l-1.5-3.4"/>
 	<path class="st8_fishing-7" d="M232.9,201.2c0,0-2.2,6-1.8,6.1c5.9,2.2,12.3,2.2,18.2,0l-1.8-5.4C247.4,201.9,238.8,203.8,232.9,201.2z"/>
 	<ellipse class="st14_fishing-7" cx="240" cy="201.9" rx="7.4" ry="3"/>
-	<path class="st7_fishing-7 targetColor" d="M169.5,296.9c0,0-7.8-10.6,12.3-31.7l45.6,26.2C227.5,291.4,179.8,302,169.5,296.9z" style="fill: rgb(104, 225, 253);"/>
+	<path class="st7_fishing-7 targetColor" d="M169.5,296.9c0,0-7.8-10.6,12.3-31.7l45.6,26.2C227.5,291.4,179.8,302,169.5,296.9z" style="fill: rgb(145, 76, 66);"/>
 	<path class="st10_fishing-7" d="M169.5,296.9c0,0-7.8-10.6,12.3-31.7l45.6,26.2C227.5,291.4,179.8,302,169.5,296.9z"/>
 </g>
 </svg>
